@@ -4,6 +4,8 @@ This project is a text classification system that identifies whether a given mes
 
 This repository is based on the original project by CampusX (linked below) but has been significantly modified to include enhanced preprocessing steps, feature engineering, better modularity, and comparative model evaluation. The aim was to build a more robust, scalable version of a spam classifier for real-world usage and experimentation.
 
+### Yes the deployment is still left ik 
+
 ## Features
 
 - **Text Preprocessing**  
